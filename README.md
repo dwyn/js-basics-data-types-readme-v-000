@@ -1,6 +1,6 @@
 # JavaScript Data Types
 In this lesson, we'll cover all of the basic data types in JavaScript.
-
+ 
 ## Objectives
 1. Define 'data type'.
 2. Perform basic type checking with the `typeof` operator.
